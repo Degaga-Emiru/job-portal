@@ -1,0 +1,94 @@
+/* Custom enhancements to Bootstrap */
+
+/* Job Cards */
+.job-listing {
+    transition: all 0.3s ease;
+}
+
+.job-listing:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.job-listing .badge {
+    font-weight: 500;
+    padding: 6px 10px;
+}
+
+/* Step Cards */
+.step-card {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.step-card:hover {
+    background-color: rgba(52, 152, 219, 0.05);
+    border-color: rgba(52, 152, 219, 0.2);
+}
+
+/* Form Enhancements */
+.form-label {
+    font-weight: 500;
+}
+
+/* Dark Mode Toggle */
+#darkModeToggle {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+/* Job Search Bar */
+.search-bar {
+    border-radius: 50px;
+    padding: 8px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Badge Enhancements */
+.badge {
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+/* Testimonial Carousel */
+.carousel-control-prev, .carousel-control-next {
+    width: 5%;
+}
+
+/* Footer Links */
+.footer a {
+    color: rgba(255, 255, 255, 0.7);
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* Social Icons */
+.social-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+    background-color: var(--primary-color);
+    transform: translateY(-3px);
+}
+
+/* Application Form */
+.apply-job .card {
+    border-top: 4px solid var(--primary-color);
+}
