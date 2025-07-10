@@ -66,3 +66,10 @@ http://localhost/job-portal
 │   └── js/
 └── sql/
     └── job_portal.sql
+
+📌 Status
+🚧 This project is under active development. Suggestions and contributions are welcome!
+
+📬 Contact
+For questions or contributions, feel free to open an issue or create a pull request.
+
