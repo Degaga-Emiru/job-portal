@@ -1,6 +1,6 @@
 # 💼 Job Portal
 
-This repository contains a **Job Portal Web Application** developed using **PHP**, **JavaScript**, and **Bootstrap CSS**. It allows **job seekers** to explore and apply for jobs, and **employers** to post and manage job listings in a user-friendly interface.
+This repository contains a **Job Portal Web Application** developed using **PHP**, **JavaScript**, and **Bootstrap CSS**. It allows **job seekers** to explore and apply for jobs, and **employers** to post and manage job listings in a user-friendly interface. This Project currently on development
 
 ---
 
